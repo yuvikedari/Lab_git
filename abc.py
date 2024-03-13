@@ -1,4 +1,4 @@
 #!/usr/bin/python
 def add (a ,b):
-    pass
+    return x+y
 
